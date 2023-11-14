@@ -1,11 +1,11 @@
 # test_repo
+
 Using this repo to learn more about Github
 
 ## Making changes
 
-*bold* changes
+**bold** changes
 
 _italic_ changes
 
-
-__underlined__ changes?
+_underlined_ changes?
